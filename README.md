@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/elifseyhan/faq-accordion-solution)
+- Live Site URL: [Netlify](https://startling-druid-5221c0.netlify.app)
 
 ## My process
 
